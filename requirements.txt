@@ -1,0 +1,7 @@
+numpy==1.23.5
+tensorflow==2.15.0
+tensorflow_text==2.15.0
+tensorflow_hub==0.15.0
+gradio==4.13.0
+streamlit==1.24.0
+transformers==4.34.0
